@@ -67,6 +67,10 @@
   cursor: pointer;
 }
 
+.gpt__navbar-sign span a {
+  display: flex;
+}
+
 .gpt__navbar-menu-mobile {
   display: flex;
   justify-content: flex-end;

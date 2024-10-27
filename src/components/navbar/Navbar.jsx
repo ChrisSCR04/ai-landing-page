@@ -49,8 +49,8 @@ function Navbar () {
 
           <p><a href='#wgpt'>What is GPT?</a></p>
           <p><a href='#features'>Case Studies</a></p>
-          <p><a href='#possibility'>OpenAI</a></p>
-          <p><a href='#blog'>Library</a></p>
+          <p><a href='#possibility'>Potential</a></p>
+          <p><a href='#blog'>Blog</a></p>
         </div>
       </div>
       <div className='gpt__navbar-sign'>
@@ -77,9 +77,9 @@ function Navbar () {
             <div className='gpt__navbar-menu_container-links'>
 
               <p><a onClick={displayResponsiveMenu} href='#wgpt'>What is GPT?</a></p>
-              <p><a onClick={displayResponsiveMenu} href='#possibility'>OpenAI</a></p>
               <p><a onClick={displayResponsiveMenu} href='#features'>Case Studies</a></p>
-              <p><a onClick={displayResponsiveMenu} href='#blog'>Library</a></p>
+              <p><a onClick={displayResponsiveMenu} href='#possibility'>Potential</a></p>
+              <p><a onClick={displayResponsiveMenu} href='#blog'>Blog</a></p>
             </div>
             <div className='gpt__navbar-menu_container-links-sign'>
               <SiWhatsapp fill='white' size={27} />
